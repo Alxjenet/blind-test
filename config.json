@@ -1,0 +1,174 @@
+[
+   {
+      "theme":"Spécial Disney<SUP>1/2</SUP>",
+      "expected":"le titre et un nom de personnage",
+      "answer":{
+         "1":"Merlin l'enchanteur - C'est ce qui fait que tout tourne rond (1963)",
+         "2":"Raiponce - Où est la vraie vie (2010)",
+         "3":"La Reine des Neiges - Libérée, délivrée (2013)",
+         "4":"Pocahontas - L'air du vent (1995)",
+         "5":"Aladdin - Prince Ali (1992)",
+         "6":"Zootopia - Try Everything (2016)",
+         "7":"Toy Story - Je suis ton ami (1996)",
+         "8":"Hercules - Gospel pur (1997)",
+         "9":"Le Roi Lion - Le cycle de la vie (1994)",
+         "10":"Robin des Bois - Quel beau jour vraiment (1973)"
+      },
+      "music":{
+         "1":"music/disney/merlin.mp3",
+         "2":"music/disney/raiponce.mp3",
+         "3":"music/disney/la_reine_des_neiges.mp3",
+         "4":"music/disney/pocahontas.mp3",
+         "5":"music/disney/aladdin.mp3",
+         "6":"music/disney/zootopia.mp3",
+         "7":"music/disney/toystory.mp3",
+         "8":"music/disney/hercules.mp3",
+         "9":"music/disney/le_roi_lion.mp3",
+         "10":"music/disney/robin_des_bois.mp3"
+      }
+   },
+   {
+      "theme":"Années 80'",
+      "expected":"le titre et le chanteur",
+      "answer":{
+         "1":"Gérard Blanc - Une autre histoire (1988)",
+         "2":"Indochine - L'aventurier (1982)",
+         "3":"Corynne Charby - Boule de Flipper (1987)",
+         "4":"Philippe Cataldo - Les divas du dancing (1986)",
+         "5":"Émile et Images - Capitaine abandonné (1985)",
+         "6":"Jean-Jacques Goldman - Quand la musique est bonne (1982)",
+         "7":"Alain Chamfort - la fièvre dans le sang (1986)",
+         "8":"Desireless - Voyage Voyage (1989)",
+         "9":"Michel Sardou - les lacs du Connemara (1981)",
+         "10":"Téléphone - Ça (1982)"
+      },
+      "music":{
+         "1":"music/80s/gerard_blanc.mp3",
+         "2":"music/80s/indochine.mp3",
+         "3":"music/80s/corynne_charby.mp3",
+         "4":"music/80s/philippe_cataldo.mp3",
+         "5":"music/80s/emile_images.mp3",
+         "6":"music/80s/jean_jacques_goldman.mp3",
+         "7":"music/80s/alain_chamfort.mp3",
+         "8":"music/80s/desireless.mp3",
+         "9":"music/80s/michel_sardou.mp3",
+         "10":"music/80s/telephone.mp3"
+      }
+   },
+   {
+      "theme":"Spécial Disney<SUP>2/2</SUP>",
+      "expected":"le titre et un nom de personnage",
+      "answer":{
+         "1":"Tarzan - Entre Deux Mondes (1999)",
+         "2":"Là-haut - Married Life (2009)",
+         "3":"La Belle et la Bête - Histoire Eternelle (1991)",
+         "4":"Les aristochats - Tout le monde veut devenir un cat (1970)",
+         "5":"La planète au trésor - Un homme libre (2002)",
+         "6":"Les Nouveaux Héros - Immortals Chanson (2015)",
+         "7":"La princesse et la grenouille - A travers le bayou (2010)",
+         "8":"Le Bossu de Notre - Rien qu'un jour (1996)",
+         "9":"La petite sirène - Sous l'océan (1990)",
+         "10":"Pinocchio - Quand on prie la bonne étoile (1940)"
+      },
+      "music":{
+         "1":"music/disney/tarzan.mp3",
+         "2":"music/disney/la_haut.mp3",
+         "3":"music/disney/la_belle_et_la_bete.mp3",
+         "4":"music/disney/les_aristochats.mp3",
+         "5":"music/disney/la_planete_au_tresor.mp3",
+         "6":"music/disney/les_nouveaux_heros.mp3",
+         "7":"music/disney/la_princesse_et_la_grenouille.mp3",
+         "8":"music/disney/le_bossu_de_notre.mp3",
+         "9":"music/disney/la_petite_sirene.mp3",
+         "10":"music/disney/pinocchio.mp3"
+      }
+   },
+   {
+      "theme":"Années 90'",
+      "expected":"le titre et le chanteur",
+      "answer":{
+         "1":"Felix Gray - La gitane (1990)",
+         "2":"Jean-Pierre François - Je te survivrai (1990)",
+         "3":"Michel Berger - Le paradis blanc (1990)",
+         "4":"Claude Barzotti - Madame (1991)"
+      },
+      "music":{
+         "1":"music/90s/felix_gray.mp3",
+         "2":"music/90s/jean_pierre_francois.mp3",
+         "3":"music/90s/michel_berger.mp3",
+         "4":"music/90s/claude_barzotti.mp3"
+      }
+   },
+   {
+      "theme":"Dessin animés'",
+      "expected":"le titre du dessin animé",
+      "answer":{
+         "1":"Pokemon",
+         "2":"Tortues Ninja",
+         "3":"Bob l'éponge",
+         "4":"Kung Fu Panda"
+      },
+      "music":{
+         "1":"music/dessin_animes/pokemon.mp3",
+         "2":"music/dessin_animes/tortues_ninja.mp3",
+         "3":"music/dessin_animes/bob_eponge.mp3",
+         "4":"music/dessin_animes/kung_fu_panda.mp3"
+      }
+   },
+   {
+      "theme":"Spécial Films",
+      "expected":"le titre du film",
+      "answer":{
+         "1":"Mission impossible (1996)",
+         "2":"Gladiator (2000)",
+         "3":"50 nuances de gris (2015)",
+         "4":"Indiana Jones (1981)",
+         "5":"Top Gun (1986)",
+         "6":"Jurassic park (1993)",
+         "7":"Star Wars (1977)",
+         "8":"Titanic (1997)",
+         "9":"Le parrain (1972)",
+         "10":"Le gendarme de st tropez (1965)"
+      },
+      "music":{
+         "1":"music/film/mission_impossible.mp3",
+         "2":"music/film/gladiator.mp3",
+         "3":"music/film/50_nuances_gris.mp3",
+         "4":"music/film/indiana_jones.mp3",
+         "5":"music/film/top_gun.mp3",
+         "6":"music/film/jurassic_park.mp3",
+         "7":"music/film/star_wars.mp3",
+         "8":"music/film/titanic.mp3",
+         "9":"music/film/le_parrain.mp3",
+         "10":"music/film/le_gendarme_de_sttropez.mp3"
+      }
+   },
+   {
+      "theme":"Spécial Séries",
+      "expected":"le titre de la série",
+      "answer":{
+         "1":"Game of thrones (2011 - )",
+         "2":"Les experts miami (2002 - 2012)",
+         "3":"Dallas (1978 - 1991)",
+         "4":"Grey's Anatomy (2005 - )",
+         "5":"Dr House (2004 - 2012)",
+         "6":"Chapeau melon bottes de cuir (1961 - 1969)",
+         "7":"Magnum (1980 - 1988)",
+         "8":"Macgyver (1985 - 1992)",
+         "9":"Les simpsons (1989 - )",
+         "10":"The Walking dead (2010 - )"
+      },
+      "music":{
+         "1":"music/serie/game_of_thrones.mp3",
+         "2":"music/serie/les_experts_miami.mp3",
+         "3":"music/serie/dallas.mp3",
+         "4":"music/serie/greys_anatomy.mp3",
+         "5":"music/serie/dr_house.mp3",
+         "6":"music/serie/chapeau_melon_bottes_de_cuir.mp3",
+         "7":"music/serie/magnum.mp3",
+         "8":"music/serie/macgyver.mp3",
+         "9":"music/serie/simpsons.mp3",
+         "10":"music/serie/the_walking_dead.mp3"
+      }
+   }
+]

@@ -1,0 +1,51 @@
+body { margin:0; font-family: helvetica !important; overflow:hidden; }
+#btn-fullscreen { display:none;position: absolute; margin-top: 10px; right: 10px; font-size:12px; color:#ccc; cursor:pointer; }
+#container { z-index:0; opacity:0; text-align: center;}
+
+#control-theme { padding:20px; height:15px; }
+#prev, #next, #score { background:rgb(227, 227, 227) none repeat scroll 0% 0%; width:50px; cursor:pointer; position:absolute; top:350px; padding:10px;  }
+#prev { left:0px; }
+	#prev img { padding-top: 7px; margin-left: 30px; }
+#next { right:0px; }
+	#next img { padding-top: 7px;margin-left: 2px; }
+#score { right:0px; display: none; }
+	#score img { padding-top: 7px;margin-left: 2px; }
+#title { margin-top:80px; text-align:center;font-weight:500; color:#898788; font-size:40px; }	
+#theme { margin-top:10px; text-align:center; font-size:100px; font-weight:100; color:rgb(123, 123, 123); font-family: helvetica neue !important }
+#theme sup { font-size: 33px; margin-left: 20px; }
+
+#expected, #answer { cursor:pointer;text-align: center; padding: 20px 30px; min-width: 310px; color: rgb(255, 255, 255); display: inline-block; margin: 40px auto; border-radius: 200px; font-size: 18px; font-weight: 200; font-family: helvetica neue; }
+#expected { background: #f73400 none repeat scroll 0% 0%; }
+#answer { display:none; background: rgb(43, 43, 43); }
+
+#team-group { text-align:center; width: 264px;  margin:0 auto; position: relative; }
+#team-group span { background-image: url('../images/team.png'); width: 51px; height:51px; display:inline-block;
+text-align:left; float: left; margin-right: 20px; cursor: pointer; opacity: 0; position: relative; user-select: none; -webkit-user-select: none; }
+#team-group #team1 { background-position: 0 0; }
+#team-group #team1.active { background-position: 0 -51px; }
+#team-group #team1.bonus { background-position: 0 -102px; }
+#team-group #team2 { background-position: 51px 0; }
+#team-group #team2.active { background-position: 51px -51px; }
+#team-group #team2.bonus { background-position: 51px -102px; }
+#team-group #team3 { background-position: 102px 0; }
+#team-group #team3.active { background-position: 102px -51px; }
+#team-group #team3.bonus { background-position: 102px -102px; }
+#team-group #team4 { background-position: 153px 0; margin-right: 0px; }
+#team-group #team4.active { background-position: 153px -51px; }
+#team-group #team4.bonus { background-position: 153px -102px; }
+
+#container-footer-wrapper { position:relative; margin-top:360px; }
+#container-footer { position:absolute; width:100%; opacity:0; }
+#group-players { position:absolute; bottom:75px; width:100%; }
+.prototype-wrapper { z-index:999; position:relative; padding: 0 0px; margin:0 auto; }
+#footer { background: rgb(227, 227, 227) none repeat scroll 0% 0%; width:100%; height:130px; position:absolute; bottom:0; }
+
+
+#container-score { display: none; }
+#container-score table { width:400px; text-align: center; margin: 160px auto; }
+#container-score span { background-image: url('../images/team.png'); width: 51px; height:51px; display:inline-block; }
+.score-result { text-align: center; font-size: 27px; margin-top: 20px; color: #666; font-weight: 300; }
+#container-score span#score-team1 { background-position: 0 0; }
+#container-score span#score-team2 { background-position: 51px 0; }
+#container-score span#score-team3 { background-position: 102px 0; }
+#container-score span#score-team4 { background-position: 153px 0; margin-right: 0px; }
